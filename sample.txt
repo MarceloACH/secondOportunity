@@ -1,0 +1,1 @@
+We're going to use GitHub's direct editor to simulate that process now. Normally, we don't edit files directly in GitHub, but we'll do that here in order to simulate another developer pushing a commit to the central repository.
