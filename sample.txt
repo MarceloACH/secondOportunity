@@ -3,3 +3,4 @@ Hello world!!!!!!!!!!!!!!!!!
 Change the text in the file,
 
 Just like we did in Part II, open up GitHub and modify the text in the sample.txt file, making sure you commit the changes.
+Just like PART 3
